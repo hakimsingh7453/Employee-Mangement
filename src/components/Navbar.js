@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import './style.css';
 
 function Navbar() {
@@ -14,4 +15,5 @@ function Navbar() {
     </div>
   );
 }
-export default Navbar;
+  
+  export default Navbar;
